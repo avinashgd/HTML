@@ -1,0 +1,15 @@
+#facebook{
+    background-color: yellowgreen;
+}
+
+#default {
+    font-size: 20px;
+    background-color: yellow;
+    padding: 10px;
+    border: 2px dotted red;
+
+};
+#threehigh{
+    font-size: 30px;
+    color: aqua;
+};
